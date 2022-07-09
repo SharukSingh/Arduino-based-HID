@@ -380,7 +380,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "naya folder/HID_Kicad.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
